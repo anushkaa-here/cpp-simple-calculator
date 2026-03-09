@@ -17,6 +17,9 @@ A game where the computer generates a random number between 1 and 100 and the us
 3. Prime Checker
 A program to check whether a given number is prime or not.
 
+4. Palindrome Checker
+A program to check wheter the input string is a palindrome.
+
 ## Language Used
 C++
 
